@@ -1,0 +1,16 @@
+{
+  "name": "kisah-sukses-final-ai-hebat",
+  "version": "1.0.0",
+  "description": "Kisah Sukses Final AI Hebat - Mentor AI bilingual (ID/EN) - Render ready",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
